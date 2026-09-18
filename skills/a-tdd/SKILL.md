@@ -1,1 +1,1 @@
-# a-tdd
+# acceptance test driven development
